@@ -1,0 +1,6 @@
+---
+applications:
+- name: hana-service-proxy
+  random-route: true
+  memory: 128M
+  command: node index.js
