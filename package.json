@@ -1,12 +1,16 @@
 {
-  "name": "hana-service-proxy",
+  "name": "scp-ssh-proxy",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.wdf.sap.corp/I048211/scp-ssh-proxy.git"
+  },
+  "author": "Dietmar Steinbichler",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
